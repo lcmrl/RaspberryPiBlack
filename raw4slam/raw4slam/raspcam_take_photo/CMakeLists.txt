@@ -1,0 +1,2 @@
+add_library(raspcam_take_photo raspcam_take_photo.cpp)
+target_link_libraries(raspcam_take_photo PUBLIC cxx_setup)

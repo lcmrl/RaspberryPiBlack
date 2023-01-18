@@ -1,0 +1,2 @@
+/usr/bin/ar qc libraspcam_take_photo.a CMakeFiles/raspcam_take_photo.dir/raspcam_take_photo.cpp.o
+/usr/bin/ranlib libraspcam_take_photo.a

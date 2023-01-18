@@ -1,0 +1,14 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../raw4slam/raspcam_take_photo/raspcam_take_photo.h
+
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/executables/acquire_data.cpp
+raw4slam/raspcam_take_photo/raspcam_take_photo.h
+-
+

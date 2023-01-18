@@ -1,0 +1,10 @@
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/build/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/build/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/build/raw4slam/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/build/raw4slam/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/build/raw4slam/raspcam_take_photo/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/build/raw4slam/raspcam_take_photo/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/build/raw4slam/raspcam_take_photo/CMakeFiles/raspcam_take_photo.dir
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/build/executables/CMakeFiles/rebuild_cache.dir
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/build/executables/CMakeFiles/edit_cache.dir
+/home/pi/Desktop/github_lcmrl/RaspberryPiBlack/raw4slam/build/executables/CMakeFiles/acquire_data.dir

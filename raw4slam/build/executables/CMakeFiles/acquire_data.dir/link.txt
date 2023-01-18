@@ -1,0 +1,1 @@
+/usr/bin/c++ -O3 -DNDEBUG CMakeFiles/acquire_data.dir/acquire_data.cpp.o -o acquire_data  ../raw4slam/raspcam_take_photo/libraspcam_take_photo.a 
