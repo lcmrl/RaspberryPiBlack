@@ -39,7 +39,7 @@ def AddExifGPS(file_name, lat, lng, alt, year, hour, hour_float_sec, quality):
     exiv_lng = (change_to_rational(lng[0]), change_to_rational(lng[1]), change_to_rational(lng[2]))
     exiv_hour = (change_to_rational(hour_float_sec[0]), change_to_rational(hour_float_sec[1]), change_to_rational(hour_float_sec[2]))
     gps_ifd = {
-        piexif.GPSIFD.GPSVersionID: (2, 0, 0, 0),
+        piexif.GPSIFD.GPSVersionID: (2, 3, 0, 0), #(2, 0, 0, 0)
         piexif.GPSIFD.GPSAltitudeRef: 0,
         piexif.GPSIFD.GPSAltitude: change_to_rational(alt), #change_to_rational(round(alt))
         piexif.GPSIFD.GPSLatitudeRef: lat[3],
